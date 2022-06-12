@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+aside{
+    background-color: #f4f4f4;
+    width: 300px;
+    height: 500px;
+    padding-top: 1px;
+    
+}
+section{
+    background-color: #fff;
+    border-radius: 10% 10% 0 0;
+    width: 275px;
+    height: 465px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    text-align: center;
+}
+h1{
+    font-size: xx-large;
+    color: cornflowerblue;
+}
+li{
+    list-style-type: none;
+    color: cornflowerblue;  
+}
+  .material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+a{
+    text-decoration: none;
+}
+article{
+    text-align: center;
+}
+img{
+    border-radius: 360px;
+    width: 100px;
+    height: 100px;
+}
